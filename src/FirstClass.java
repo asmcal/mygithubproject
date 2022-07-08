@@ -4,6 +4,8 @@ public class FirstClass {
         System.out.println("Hello World");
 
         System.out.println("karmasik?");
+
+        System.out.println("interesting?");
     }
 
 }
